@@ -1,0 +1,46 @@
+{
+  "name": "Senior Media",
+  "short_name": "SeniorMedia",
+  "start_url": "https://senior-media.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#0a4061",
+  "theme_color": "#000000",
+  "description": "I am Senior Media, a talented, creative, detail-oriented, and hard-working graphic and web designer.",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgEtZcypgd2Bin1sFDBAb8IDDiKCHBVZIB0n_VokAnVG59y79AcA3VsBNy-bXLksWSs8ZsGk2llBmHm6aJUtqej8T3UPlhd3lSJIles8K4SrLiztLqx2sTqX08IuajQmJk0JafLtt1yfMC59MDtJjYQz0DzrvtZyNCVgkniyWxsuuLtwMYuCic23l7Ygu/s48/logo_2sm.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgEtZcypgd2Bin1sFDBAb8IDDiKCHBVZIB0n_VokAnVG59y79AcA3VsBNy-bXLksWSs8ZsGk2llBmHm6aJUtqej8T3UPlhd3lSJIles8K4SrLiztLqx2sTqX08IuajQmJk0JafLtt1yfMC59MDtJjYQz0DzrvtZyNCVgkniyWxsuuLtwMYuCic23l7Ygu/s72/logo_2sm.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgEtZcypgd2Bin1sFDBAb8IDDiKCHBVZIB0n_VokAnVG59y79AcA3VsBNy-bXLksWSs8ZsGk2llBmHm6aJUtqej8T3UPlhd3lSJIles8K4SrLiztLqx2sTqX08IuajQmJk0JafLtt1yfMC59MDtJjYQz0DzrvtZyNCVgkniyWxsuuLtwMYuCic23l7Ygu/s96/logo_2sm.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgEtZcypgd2Bin1sFDBAb8IDDiKCHBVZIB0n_VokAnVG59y79AcA3VsBNy-bXLksWSs8ZsGk2llBmHm6aJUtqej8T3UPlhd3lSJIles8K4SrLiztLqx2sTqX08IuajQmJk0JafLtt1yfMC59MDtJjYQz0DzrvtZyNCVgkniyWxsuuLtwMYuCic23l7Ygu/s144/logo_2sm.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgEtZcypgd2Bin1sFDBAb8IDDiKCHBVZIB0n_VokAnVG59y79AcA3VsBNy-bXLksWSs8ZsGk2llBmHm6aJUtqej8T3UPlhd3lSJIles8K4SrLiztLqx2sTqX08IuajQmJk0JafLtt1yfMC59MDtJjYQz0DzrvtZyNCVgkniyWxsuuLtwMYuCic23l7Ygu/s168/logo_2sm.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgEtZcypgd2Bin1sFDBAb8IDDiKCHBVZIB0n_VokAnVG59y79AcA3VsBNy-bXLksWSs8ZsGk2llBmHm6aJUtqej8T3UPlhd3lSJIles8K4SrLiztLqx2sTqX08IuajQmJk0JafLtt1yfMC59MDtJjYQz0DzrvtZyNCVgkniyWxsuuLtwMYuCic23l7Ygu/s192/logo_2sm.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgEtZcypgd2Bin1sFDBAb8IDDiKCHBVZIB0n_VokAnVG59y79AcA3VsBNy-bXLksWSs8ZsGk2llBmHm6aJUtqej8T3UPlhd3lSJIles8K4SrLiztLqx2sTqX08IuajQmJk0JafLtt1yfMC59MDtJjYQz0DzrvtZyNCVgkniyWxsuuLtwMYuCic23l7Ygu/s512/logo_2sm.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
